@@ -1,0 +1,28 @@
+name: vajaah
+favicon: null
+layout_spectrum: 0.7752197226509452
+typography_spectrum: 0.9936673785559833
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7650266240816563
+  lightness: 0.4874748394358903
+  saturation: 0.34026517253369093
+  rhythmicContrast: 0.9450647227931768
+purpose: []
